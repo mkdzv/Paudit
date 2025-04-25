@@ -44,8 +44,7 @@ Length: 15 characters
 ------------------------------------------------------------
 Security Score: 75/100
 
-Audit another password? (y/n): y
-Enter password to audit:
+Audit another password? (y/n):
 
 ## Contribute
 
