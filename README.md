@@ -9,25 +9,23 @@ Paudit is a password strength auditor that evaluates passwords against common vu
 - **CLI**: Works as both CLI tool and importable Python module
   
 ## How it works
-1. .
-2. .
-3. .
-4. .
-5. .
+1. The user inputs a password
+2. The program compares the password to the `password.txt` file
+3. If the password is too common and is n the list of `password.txt` then the program prompts the user to try again, otherwise the program gives the user feedback, entropy, breakthrough time and suggestions for improvement
+4. The program asks the user to try another password, with `y` indicating yes and `n` indicating no, choosing yes allows you to try another password and choosing no ends the program
+5. Enjoy :)
    
 ## Installation
-1. .
-2. .
-3. .
-4. .
-5. .
+1. Download the lastest version of Python on your device
+2. Download the files from the Paudit folder: `Paudit.py` & `passwords.txt`
+3. Save both files in the same folder
 
 ## Usage
-1. .
-2. .
-3. .
-4. .
-5. .
+1. Open the IDE of your choice (VScode, Notepad, etc)
+2. Open the folder with the files 
+3. Open the terminal and type `python paudit.py`
+4. Run the program 
+5. Type in your password and have fun
 
 ## Example
 
