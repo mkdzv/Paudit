@@ -9,4 +9,6 @@ Paudit is a Python-based password strength auditor that evaluates passwords agai
 
 ## Usage
 
+## Contribute
+
 ## Demo
