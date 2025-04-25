@@ -30,15 +30,15 @@ Enter password to audit: hearmeout123#@!
 ------------------------------------------------------------
 Password: hearmeout123#@!
 Length: 15 characters
-✅ Good length (15 characters)
-❌ Add uppercase letters
-✅ Contains lowercase letters
-✅ Contains numbers
-✅ Contains special characters
-✅ Good mix of character types
-❌ Avoid sequential numbers (e.g., 123, 456)
-🔐 Entropy: 90.67 bits
-⏳ Estimated breakthrough time: 6228054813 years, 10 months
+- ✅ Good length (15 characters)
+- ❌ Add uppercase letters
+- ✅ Contains lowercase letters
+- ✅ Contains numbers
+- ✅ Contains special characters
+- ✅ Good mix of character types
+- ❌ Avoid sequential numbers (e.g., 123, 456)
+- 🔐 Entropy: 90.67 bits
+- ⏳ Estimated breakthrough time: 6228054813 years, 10 months
 
 ⚠️ Good password - could be stronger
 ------------------------------------------------------------
