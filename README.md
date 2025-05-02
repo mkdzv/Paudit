@@ -61,9 +61,9 @@ Audit another password? (y/n):
 
 ## Contribute
 - Fork the repository.
-- Create a new branch (git checkout -b feature-branch).
-- Commit your changes (git commit -m "Add new feature").
-- Push to your forked repository (git push origin feature-branch).
+- Create a new branch (`git checkout -b feature-branch`).
+- Commit your changes (`git commit -m "Add new feature"`).
+- Push to your forked repository (`git push origin feature-branch`).
 - Create a pull request with your proposed changes.
   
 ## License
