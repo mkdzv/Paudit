@@ -26,45 +26,6 @@ Paudit is a password strength auditor that evaluates passwords against common vu
 3. Open the terminal and type `python paudit.py`
 4. Run the program 
 5. Type in your password and have fun
-
-## Example
-
-    ██████╗  █████╗ ██╗   ██╗██████╗ ██╗████████╗
-    ██╔══██╗██╔══██╗██║   ██║██╔══██╗██║╚══██╔══╝
-    ██████╔╝███████║██║   ██║██║  ██║██║   ██║   
-    ██╔═══╝ ██╔══██║██║   ██║██║  ██║██║   ██║   
-    ██║     ██║  ██║╚██████╔╝██████╔╝██║   ██║   
-    ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝   ╚═╝
-    Simple Password Auditor
-
-Enter password to audit: hearmeout123#@!
-
-🔒 Password Audit Results:
-------------------------------------------------------------
-Password: hearmeout123#@!
-Length: 15 characters
-- ✅ Good length (15 characters)
-- ❌ Add uppercase letters
-- ✅ Contains lowercase letters
-- ✅ Contains numbers
-- ✅ Contains special characters
-- ✅ Good mix of character types
-- ❌ Avoid sequential numbers (e.g., 123, 456)
-- 🔐 Entropy: 90.67 bits
-- ⏳ Estimated breakthrough time: 6228054813 years, 10 months
-
-⚠️ Good password - could be stronger
-------------------------------------------------------------
-Security Score: 75/100
-
-Audit another password? (y/n):
-
-## Contribute
-- Fork the repository.
-- Create a new branch (`git checkout -b feature-branch`).
-- Commit your changes (`git commit -m "Add new feature"`).
-- Push to your forked repository (`git push origin feature-branch`).
-- Create a pull request with your proposed changes.
   
 ## License
 MIT License
