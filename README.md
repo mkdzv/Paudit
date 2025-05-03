@@ -13,7 +13,6 @@ Paudit is a password strength auditor that evaluates passwords against common vu
 2. The program compares the password to the `password.txt` file
 3. If the password is too common and is in the list of `password.txt` then the program prompts the user to try again, otherwise the program gives the user feedback, entropy, breakthrough time and suggestions for improvement
 4. The program asks the user to try another password, with `y` indicating yes and `n` indicating no, choosing yes allows you to try another password, and choosing no ends the program
-5. Enjoy :)
    
 ## Installation
 1. Download the lastest version of Python on your device
