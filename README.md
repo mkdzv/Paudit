@@ -1,5 +1,5 @@
 # Paudit
-Paudit is a password strength auditor that evaluates passwords against common vulnerabilities and security best practices. It provides a detailed analysis of password strength by checking for common weaknesses, estimating entropy, and calculating realistic breakthrough times for attackers.
+Paudit is a password strength auditor that evaluates passwords against common vulnerabilities and security best practices. 
 
 ## Features
 The program has various features like check against the most overused passwords, calculating bit entropy (how difficult it is to crack the password), time to break the password, suggestion to improve the password and you can use this program as a CLLI tool or module.
