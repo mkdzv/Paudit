@@ -2,29 +2,16 @@
 Paudit is a password strength auditor that evaluates passwords against common vulnerabilities and security best practices. It provides a detailed analysis of password strength by checking for common weaknesses, estimating entropy, and calculating realistic breakthrough times for attackers.
 
 ## Features
-- **Common Password Checking**: Checks against 10,000+ common passwords
-- **Entropy**: Calculates bit entropy
-- **Breakthrough**: Estimates realistic breakthrough time with modern GPU cracking
-- **Feedback & Suggestions**: Provides improvement suggestions
-- **CLI**: Works as both CLI tool and importable Python module
-  
+The program has various features like check against the most overused passwords, calculating bit entropy (how difficult it is to crack the password), time to break the password, suggestion to improve the password and you can use this program as a CLLI tool or module.
+
 ## How it works
-- The user inputs a password
-- The program compares the password to the `password.txt` file
-- If the password is too common and is in the list of `password.txt` then the program prompts the user to try again, otherwise the program gives the user feedback
-- The program asks the user to try another password, with `y` indicating yes and `n` indicating no, choosing yes allows you to try again, and choosing no ends the program
+When you input a password the program runs through the list of 10,000+ passwords to see if yours is too common and then output to try another password or gives feedback.
    
 ## Installation
-1. Download the lastest version of Python on your device
-2. Download the files from the Paudit folder: `Paudit.py` & `passwords.txt`
-3. Save both files in the same folder
+Make sure to download the lateste version of Python for your device and then download the text file and Python file, be sure to keep both files in the same folder.
 
 ## Usage
-1. Open the IDE of your choice (VScode, Notepad, etc)
-2. Open the folder with the files 
-3. Open the terminal and type `python paudit.py`
-4. Run the program 
-5. Type in your password and have fun
+You can use any IDE of your choice and run the files in the folder you saved them and type in `python paudit.py` to run the program, then start testing passwords.
 
 ## Contribute
 Contribution is always appreciated
