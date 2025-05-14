@@ -8,7 +8,7 @@ The program has various features like check against the most overused passwords,
 When you input a password the program runs through the list of 10,000+ passwords to see if yours is too common and then output to try another password or gives feedback.
    
 ## Installation
-Make sure to download the lateste version of Python for your device and then download the text file and Python file, be sure to keep both files in the same folder.
+Make sure to download the latest version of Python for your device and then download the text file and Python file, be sure to keep both files in the same folder.
 
 ## Usage
 You can use any IDE of your choice and run the files in the folder you saved them and type in `python paudit.py` to run the program, then start testing passwords.
