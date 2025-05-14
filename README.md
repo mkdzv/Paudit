@@ -25,3 +25,6 @@ Paudit is a password strength auditor that evaluates passwords against common vu
 3. Open the terminal and type `python paudit.py`
 4. Run the program 
 5. Type in your password and have fun
+
+## Contribute
+Contribution is always appreciated
